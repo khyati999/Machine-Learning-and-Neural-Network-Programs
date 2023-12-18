@@ -1,0 +1,5 @@
+Temp,Humidity,Rain,Sport
+High,High,Yes,No
+Low,High,No,Yes
+High,Low,Yes,Yes
+High,Low,No,Yes
